@@ -1,4 +1,6 @@
 
+// THIS CODE IS OLD; I ended up writing my JavaScript inside of a script tag in my HTML - don't pay attention to this, just for me to have to come back to.
+
 const timeBlockTemp = `
 <div class="row">
     <div class="col-md-2 hour">12:00AM</div>
